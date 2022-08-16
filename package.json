@@ -1,0 +1,22 @@
+{
+  "name": "zavrsni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjin-Git/zavrsni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjin-Git/zavrsni/issues"
+  },
+  "homepage": "https://github.com/Sanjin-Git/zavrsni#readme",
+  "devDependencies": {
+    "cypress": "^10.5.0"
+  }
+}
